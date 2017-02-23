@@ -1,7 +1,7 @@
 {
-  "name": "tcomb-form-templates-bootstrap",
-  "version": "0.2.2",
-  "description": "Bootstrap templates for tcomb-form",
+  "name": "tcomb-form-templates-blueprintjs",
+  "version": "0.2.3",
+  "description": "Bluerprintjs templates for tcomb-form",
   "main": "lib/index.js",
   "files": [
     "lib",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gcanti/tcomb-form-templates-bootstrap.git"
+    "url": "https://github.com/truthtaicom/tcomb-form-templates-blueprintjs.git"
   },
   "author": "Giulio Canti <giulio.canti@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gcanti/tcomb-form-templates-bootstrap/issues"
   },
-  "homepage": "https://github.com/gcanti/tcomb-form-templates-bootstrap",
+  "homepage": "https://github.com/truthtaicom/tcomb-form-templates-blueprintjs",
   "dependencies": {
     "classnames": "^2.1.3",
     "tcomb": "^3.0.0"
