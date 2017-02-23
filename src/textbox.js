@@ -17,18 +17,18 @@ const TextboxConfig = t.struct({
 
 function getInputGroupButton(button) {
   return (
-    <div className="input-group-btn">
+    <div className="pt-input-group-btn">
       {button}
     </div>
   )
 }
 
 function getInputGroup(children) {
-  return React.createElement.apply(null, ['div', { className: 'input-group' }].concat(children))
+  return React.createElement.apply(null, ['div', { className: 'pt-input-group' }].concat(children))
 }
 
 function getAddon(addon) {
-  return <span className="input-group-addon">{addon}</span>
+  return <span className="pt-button pt-minimal">{addon}</span>
 }
 
 function create(overrides = {}) {
