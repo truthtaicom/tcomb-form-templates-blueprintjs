@@ -1,6 +1,6 @@
 {
   "name": "tcomb-form-templates-blueprintjs",
-  "version": "0.2.3",
+  "version": "0.2.8",
   "description": "Bluerprintjs templates for tcomb-form",
   "main": "lib/index.js",
   "files": [

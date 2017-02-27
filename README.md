@@ -4,13 +4,13 @@ Default templates used by [tcomb-form](https://github.com/gcanti/tcomb-form), so
 
 ```sh
 npm install tcomb-form
-npm install tcomb-form-templates-bootstrap
+npm install tcomb-form-templates-blueprintjs
 ```
 
 ```js
 import t from 'tcomb-form/lib'
 import en from 'tcomb-form/lib/i18n/en'
-import templates from 'tcomb-form-templates-bootstrap'
+import templates from 'tcomb-form-templates-blueprintjs '
 
 t.form.Form.i18n = en
 t.form.Form.templates = templates

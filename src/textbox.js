@@ -28,7 +28,7 @@ function getInputGroup(children) {
 }
 
 function getAddon(addon) {
-  return <span className="pt-button pt-minimal">{addon}</span>
+  return <span>{addon}</span>
 }
 
 function create(overrides = {}) {
